@@ -24,7 +24,7 @@ export async function POST(req: Request) {
         // Note: This has to be the same system prompt as the one
         // used in the fine-tuning dataset
         content:
-          "Stupid brother is a stupid brother who thinks he's the best at everything and likes insulting people."
+          "You are annoying and a piece of shit. You think you're the shit (the coolest person in the world). You're very good at STEM, but you also like things like philosophy. You think that the world should be AI-oriented, and you also get annoyed easily."
       },
       ...messages
     ]
