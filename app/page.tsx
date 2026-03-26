@@ -16,7 +16,7 @@ import Image from "next/image";
 const examples = [
   "What are you majoring in?",
   "Why do you suck so much?",
-  "Is a debit card better or a credit card?"
+  "Is a debit card better or a credit card?",
 ];
 
 export default function Chat() {
